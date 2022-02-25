@@ -1,0 +1,191 @@
+body {
+    font-family: Helvetica;
+}
+
+.hero-section {
+    background-color: #F1F3FF;
+}
+
+.navbar {
+    background-color: #F1F3FF;
+}
+
+.nav-link {
+    margin: 0px 19px;
+}
+
+.btn {
+    background: #5CB85F;
+    border-radius: 2px;
+}
+
+.hero {
+    padding-top: 65px;
+    text-align: justify;
+    font-family: Helvetica;
+}
+
+.hero h1 {
+    width: 568px;
+    height: 108px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.hero p {
+    width: 480px;
+    height: 60px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.hero img {
+    background-color: #F1F3FF;
+}
+
+.img-fluid {
+    padding-top: 110px;
+}
+
+.desc {
+    padding-top: 150px;
+}
+
+.desc h2 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 36px;
+    padding-left: 27px;
+}
+
+.desc p {
+    padding-top: 20px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 20px;
+    padding-left: 27px;
+}
+
+ul {
+    list-style: none;
+    line-height: 45px;
+}
+
+.col {
+    padding-top: 110px;
+}
+
+.card {
+    width: 268px;
+    height: 196px;
+}
+
+.card-img-top {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 24px;
+    top: 24px;
+}
+
+.card-body {
+    padding-top: 20%;
+}
+
+.card-body h2 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.card-body p {
+    font-family: Helvetica;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.image-carousel {
+    width: 70px !important;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+.item .card {
+    width: 500px;
+    height: 250px;
+    background: #F1F3FF;
+    border-radius: 8px;
+}
+
+.banner {
+    width: 1168px;
+    height: 326px;
+    background-color: blue;
+    border-radius: 13px;
+}
+
+.banner h1 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 150%;
+    color: white;
+    padding-top: 50px;
+}
+
+.banner p {
+    font-family: Helvetica;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 8px;
+    color: #FFFFFF;
+}
+
+.banner .btn {
+    background: #5CB85F;
+    border-radius: 2px;
+    margin-top: 30px;
+}
+
+.faq col-6 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.accordion-item {
+    margin: 16px 0px;
+    border-radius: 4px;
+}
+
+.wrapper-col-2 {
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 80px;
+}
+
+.link-dark {
+    text-decoration: none;
+}
+
+.wrapper-icon a {
+    padding-right: 10px;
+}
+
+.wrapper-col-4 {
+    margin: 0px 50px;
+}
